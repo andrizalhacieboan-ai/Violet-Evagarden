@@ -1,6 +1,6 @@
 const fs = require('fs')
 
-global.owner = "6281371379077" // nomor owner
+global.owner = "628xxxx" // nomor owner
 global.footer = "ⓒ ANDRI STORE"
 global.namabot = "Violet Evegarden" // nama bot lu
 global.status = true
