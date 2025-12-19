@@ -9,5 +9,7 @@
  ***Developer Script : ANDRI STORE*** 
 ```
 Telegram me: https://t.me/Androstore022
-whatsapp me: https://wa.me/6281371379077 
+whatsapp me: https://wa.me/6281371379077
+```
 
+/*©2025 Andri Store. All Rights Reserved.*/
