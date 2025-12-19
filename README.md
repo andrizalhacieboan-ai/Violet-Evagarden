@@ -1,1 +1,1 @@
-<blockquote>VIOLET EVAGARDEN VERSION FREE</blockquote>
+<blockquote> VIOLET EVAGARDEN VERSION FREE </blockquote>
