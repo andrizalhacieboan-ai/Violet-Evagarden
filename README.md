@@ -12,4 +12,4 @@ Telegram me: https://t.me/Androstore022
 whatsapp me: https://wa.me/6281371379077
 ```
 
-/*©2025 Andri Store. All Rights Reserved.*/
+*©2025 Andri Store. All Rights Reserved.*
