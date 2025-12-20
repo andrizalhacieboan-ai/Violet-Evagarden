@@ -4,7 +4,7 @@
 
 ### VIOLET EVAGARDEN VERSION FREE
 <sub>Notes: jika ada eror di dalam penggunaan script, segera lapor developer</sub>
-
+- Password Script : violetv1
 
  ***Developer Script : ANDRI STORE*** 
 ```
