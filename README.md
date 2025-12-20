@@ -11,8 +11,10 @@ whatsapp me: https://wa.me/6281371379077
 ```
 *Developer Script : ANDRI STORE*
 
-My [YOUTUBE](https://www.youtube.com/@andristoreID)n\ 
-My [Info Update Script](https://whatsapp.com/channel/0029VbBBPQvD8SDsMDyM8V0v)n\
+
+Jooiin....? : 
+My [YOUTUBE](https://www.youtube.com/@andristoreID)
+My [Info Update Script](https://whatsapp.com/channel/0029VbBBPQvD8SDsMDyM8V0v)
 My [Info Script Free & share Code](https://whatsapp.com/channel/0029VbBW0L5AYlUPmohzsS0Y) 
 
 
